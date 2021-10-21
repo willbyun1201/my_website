@@ -95,7 +95,7 @@ params:
       - image: lbs.jpg
         subtitle: My CV
         title: Resume
-        url: blogs/ipsum
+        url: '/files/William_Young_Hwan_Byun_CV.pdf'
       #- image: pic05.jpg
         #subtitle: Resume
         #title: My CV
