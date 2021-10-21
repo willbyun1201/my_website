@@ -2,13 +2,22 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:26:13-05:00"
+date: "2021-10:18"
 description: 
 draft: false
-image: 
+image: germany.jpg
 keywords: ""
-slug: Air_BnB
+slug: air_bnb
 title: Group 5 Project
+
+output:
+  html_document:
+    highlight: zenburn
+    theme: flatly
+    toc: yes
+    toc_float: yes
+    number_sections: yes
+    code_folding: show
 ---
 ![The famous Brandenburger Tor in Berlin](https://i.natgeofe.com/n/9e138c12-712d-41d4-9be9-5822a3251b5a/brandenburggate-berlin-germany.jpg)
 

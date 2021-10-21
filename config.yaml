@@ -91,7 +91,7 @@ params:
       - image: airbnb.jpg
         subtitle: Berlin Airbnb Analysis
         title: Group 5 Project
-        url: blogs/Air_BnB
+        url: blogs/air_bnb
       - image: lbs.jpg
         subtitle: My CV
         title: Resume
