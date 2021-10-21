@@ -2,13 +2,13 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:26:13-05:00"
+date: "2021-10-15"
 description: 
 draft: false
-image: pic08.jpg
+image: germany.jpg
 keywords: ""
 slug: lol_123
-title: Group 5 Project
+title: Airbnbs in Berlin
 ---
 ![The famous Brandenburger Tor in Berlin](https://i.natgeofe.com/n/9e138c12-712d-41d4-9be9-5822a3251b5a/brandenburggate-berlin-germany.jpg)
 
