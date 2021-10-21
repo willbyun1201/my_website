@@ -1,16 +1,15 @@
 baseURL: https://william-byun-portfolio.netlify.app/
 languageCode: en-us
-title: Portfolio website for Kostis Christodoulou
+title: Portfolio website for William Byun
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    #subtitle: |-
-      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is William Byun. 
+    subtitle: |-
+      Data Analytics at LBS
+    title: Welcome to William Byun's website
   blog: {}
   contact:
     address:
@@ -25,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (+44) 7411-564-197 x1234
+      - phone: (+44) 7411-564-197 
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,16 +34,16 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: William Byun
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        #url: https://www.twitter.com
+      #- icon: fa-twitter
+         #label: Twitter
+        # url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com/william.byun.1
@@ -76,43 +75,38 @@ params:
       #- name: Elements
        # url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: By William Byun
+    title: My Portfolio
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
+      - image: william.jpg
         subtitle: A short biography
         title: About me
-        url: blogs/aliquam
+        url: blogs/About_me
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
+        subtitle: Analysis
         title: Risk Return of DIJA Industrial Average
         url: blogs/risk_return
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Berlin Airbnb Analysis
+        title: Group 5 Project
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: lbs.jpg
+        subtitle: My CV
+        title: Resume
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      #- image: pic05.jpg
+        #subtitle: Resume
+        #title: My CV
+        #url: blogs/ipsum
+      #- image: pic06.jpg
+        #subtitle: Feugiat Amet Tempus
+        #title: Etiam
+        #url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Please contact me via 'send a message' below, email, phone or social media!"
+    title: William Byun
     url: blogs

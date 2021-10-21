@@ -1,14 +1,16 @@
 ---
-categories:
+categories:      
 - ""
 - ""
-date: "2017-10-31T21:28:43-05:00"
-description: ""
+date: "2021-10-15"
+description: "About me"
 draft: false
-image: pic10.jpg
+image: william.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: About_me
+title: About me
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+# William Byun
+
+My name is William Byun and I am ethnically South Korean. My Korean name is Young Hwan. However, I moved to the UK when I was 3 and have lived there ever since. I joined the LSE in 2018 where I completed my BSc Economics. Whilst studying at the LSE, I found my passion for Finance and decided to join the MFA at LBS in 2021. In the future, I hope to further my interest in the field of Finance by working at a hedge fund. 
