@@ -84,14 +84,14 @@ params:
         subtitle: A short biography
         title: About me
         url: blogs/About_me
-      - image: pic02.jpg
+      - image: wallstreet.jpeg
         subtitle: Analysis
         title: Risk Return of DIJA Industrial Average
         url: blogs/risk_return
-      - image: pic03.jpg
+      - image: airbnb.jpg
         subtitle: Berlin Airbnb Analysis
         title: Group 5 Project
-        url: blogs/magna
+        url: blogs/Air_BnB
       - image: lbs.jpg
         subtitle: My CV
         title: Resume
