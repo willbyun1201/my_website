@@ -8,9 +8,9 @@ params:
   banner:
     buttonText: Get Started
     #subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is William Byun. I have created this website for Data Analytics for Finance at LBS
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is William Byun. 
   blog: {}
   contact:
     address:
@@ -81,14 +81,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: lbs.jpg
+        subtitle: A short biography
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        title: Risk Return of DIJA Industrial Average
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
